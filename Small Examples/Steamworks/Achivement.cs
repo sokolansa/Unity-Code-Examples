@@ -4,7 +4,7 @@ using Steamworks;
 /* Explanation
     The way we are going to implement steam achivements is by calling the GetAchievement() method.
     then giving it a "API Name" to get a reference to the achivement we want to use.
-    then giving it a bool so it can give us the status of the achivement.
+    after that we give it a bool so it can give us the status of the achivement.
     now we check if the achivement has already been given before if not then give the achivement.
 
     Now observe.
