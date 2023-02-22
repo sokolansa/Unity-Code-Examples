@@ -1,0 +1,16 @@
+If you want to use steamworks in your steam game, you will need a steam game on steam.
+    It does not have to be published. however there is a big problem, it costs 100$. 
+    Thats why there exists a game called "Spacewar", Spacewar can be used for testing achivements.
+    You already have Spacewar, theres no need to install anything. 
+    However you need to set some stuff up first.
+1. you must create a steam manager in your scene.
+2. select the steam manager gameobject and find the script "Steam Manager".
+Then find the "App Id" element in the inspector and change it to 480.
+480 is Spacewar's AppID.
+
+Now you are ready to use steamworks in unity
+
+if you want a player prefab to spawn on game start,
+you must locate and assign the your Player Prefab in the "Steam Manager" script.
+you will find a "Player Prefab" element in the steam manager script.
+drag your prefab in there, and you are good to go

@@ -1,5 +1,0 @@
-If you want to use steamworks in your steam game, you will need a steam game on steam.
-    It does not have to be published. however there is a big problem, it costs 100$. 
-    Thats why there exists a game called "Spacewar", Spacewar can be used for testing achivements.
-    You already have Spacewar, theres no need to install anything. 
-    However you need to set some stuff up first
