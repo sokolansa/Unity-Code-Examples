@@ -1,5 +1,6 @@
 # Unity-Code-Examples
-![Example logo](https://user-images.githubusercontent.com/101413689/220620822-ab66bb36-2c00-4ff4-aff0-8f5053ea3751.png)
+![Example logo](https://user-images.githubusercontent.com/101413689/220621659-47afdff5-856f-437f-ad2f-553c10a2f458.png)
+
 
 This repository will show how YOU program what you need.
 
