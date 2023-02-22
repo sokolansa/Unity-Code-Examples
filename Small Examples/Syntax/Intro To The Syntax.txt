@@ -1,0 +1,18 @@
+To be able to use C#, you must understand the syntax. if you don`t know what syntax is, here is a quick explanation of what it is.
+
+"A programming language syntax refers to the set of rules that define the structure and grammar of a programming language. 
+It dictates how programs written in that language must be constructed, and what the allowable expressions, statements, and commands are."
+
+Now that you are all caught up, lets dig into the C# syntax.
+
+1. Variables: In C#, variables are declared using a type followed by a name, and can be assigned a value using the "=" operator. 
+For example, "int x = 5;" declares a variable named "x" of type integer and initializes it with a value of 5.
+
+2. Functions and Methods: C# uses a function and method syntax that is similar to other C-style languages, 
+with function and method names followed by a set of parentheses that may include arguments. For example, "void Main()"
+
+
+
+Now lets talk about some other stuff
+
+Public: when you create a function, you can make it be avaliable for other scripts
