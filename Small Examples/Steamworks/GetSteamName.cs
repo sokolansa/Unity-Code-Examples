@@ -12,10 +12,10 @@ public class GetSteamName : MonoBehaviour {
 
 	void Start() { //Start of the the game
 
-		if(SteamManager.Initialized) {
+		if(SteamManager.Initialized) { //If the SteamManager is ready then
 
-			string name = SteamFriends.GetPersonaName();
-			Debug.Log(name);
+			string name = SteamFriends.GetPersonaName(); //Store the users name in a string
+			Debug.Log(name); //Log the users name
 		}
 	}
 }
